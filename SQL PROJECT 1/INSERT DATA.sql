@@ -1,3 +1,5 @@
+---- All data was generated randomly and inserted like this on PostGre SQL
+
 insert into public."CORRECT_BIRTH_DATE" (correct_birth_date) values ('1988-07-22 00:32:38');
 insert into public."CORRECT_BIRTH_DATE" (correct_birth_date) values ('1976-01-04 06:59:16');
 insert into public."CORRECT_BIRTH_DATE" (correct_birth_date) values ('1990-05-27 10:35:40');
