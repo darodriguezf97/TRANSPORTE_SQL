@@ -7,7 +7,7 @@ GROUP BY j.name
 ORDER BY passenger_count DESC
 LIMIT 5;
 
-
+SQL PROJECT 1/Tables Objective 1/Captura de pantalla 2023-07-14 223628.png
 
 ----- Objective 1: Identify by name and id the most popular journeys and their corresponding passenger counts.
 
